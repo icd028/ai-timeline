@@ -80,7 +80,7 @@
 <script setup>
 import { ref, onMounted, computed, watch } from 'vue'
 import { useTimelineStore } from '@/store/timeline'
-import { ArrowUp, ArrowDown } from '@element-plus/icons-vue'
+import { ArrowUp, ArrowDown, Link } from '@element-plus/icons-vue'
 import dayjs from 'dayjs'
 
 const store = useTimelineStore()
