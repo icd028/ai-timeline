@@ -12,13 +12,13 @@
 
 ## 在线预览
 
-访问 GitHub Pages 查看在线演示：[AI Timeline](https://your-username.github.io/AI-Timeline)
+访问 GitHub Pages 查看在线演示：[AI Timeline](https:/icd028.github.io/AI-Timeline)
 
 ## 本地开发
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/AI-Timeline.git
+git clone https://github.com/icd028/ai-timeline.git
 
 # 安装依赖
 npm install
